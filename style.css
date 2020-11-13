@@ -25,8 +25,7 @@ html {
     flex-direction: column;
     align-items: center;
     width: 100%;
-    height: 1100px;
-    width: 1290px;
+    height: 100%;
     background: url('images/your_verse_hero_2x.jpg') bottom;
   }
 
